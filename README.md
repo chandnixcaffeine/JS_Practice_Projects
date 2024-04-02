@@ -1,4 +1,4 @@
 
-https://chandnixcaffeine.github.io/Js_practice_projects/calculator/
+https://chandnixcaffeine.github.io/JS_p=Practice_Projects/calculator/
 
-https://chandnixcaffeine.github.io/Js_practice_projects/clock/
+https://chandnixcaffeine.github.io/JS_Practice_Projects/clock/
