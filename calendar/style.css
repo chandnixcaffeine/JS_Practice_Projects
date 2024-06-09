@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "cagke regular";
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+#calendar{
+    height: 100vh;
+    width: 100%;
+    background: radial-gradient(rgb(151, 67, 160),rgba(0, 0, 255, 0.797));
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+#left, #right{
+    height: 30vh;
+    width: 10vw;
+    background-color: #4837EC;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    border-right: 1px solid palevioletred;
+    border-radius: 10px;
+    flex-direction: column;
+}
+#day,#date,#month,#year{
+    text-align: center;
+}
+#date{
+    font-size: 5vw;
+}
+#day{
+    font-size: 1.7vw;
+}
+#month{
+    font-size: 2.2vw;
+    margin-bottom: 1vw;
+}
+#year{
+    font-size: 1.7vw;
+}
