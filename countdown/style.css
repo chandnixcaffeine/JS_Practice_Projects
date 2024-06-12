@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+
+#countdown{
+    height: 100vh;
+    background-color:rgba(46, 139, 86, 0.619);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 200;
+}
+button{
+    height: 120px;
+    width: 110px;
+    margin-right: 2vw;
+    border-radius: 5px;
+    color: black;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid black;
+    font-family: "brown sugar";
+    font-size:20px;
+    font-weight: 700;
+}
